@@ -18,6 +18,6 @@ Coursework for CSCI 465-Network and Application Security
 | Description | Setup Hacking Tools/VM & GitHub Account |
 | Due Date | 28-Aug-2023 |
 | Status | Done |
-| Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/assignments/helloGit |
+| Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/assignments/HelloGit |
 | Self Grade | 100/100 |
 | Notes | completed all the requirements |
