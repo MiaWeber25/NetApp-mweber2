@@ -10,11 +10,24 @@ Coursework for CSCI 465-Network and Application Security
 | **GitHub Username**         | MiaWeber25 |
 | **Repository**          | https://github.com/MiaWeber25/NetApp-mweber2 |
 
+### Assignment #1
+
+| Name | Value |
+| :--- | :--- |
+| Name | SS-A1-NetSecBasics - TryHackMe |
+| Description | Complete the three TryHackMe exercises and submit a report |
+| Due Date | 04-Sept-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/assignments/NetSecBasics |
+| Self Grade | 100/100 |
+| Notes | completed all the requirements |
+
+
 ### Assignment #0
 
 | Name | Value |
 | :--- | :--- |
-| Name | SS-A0-Hack Box & Git |
+| Name | NetAppSec-A0-Hack Box & Git |
 | Description | Setup Hacking Tools/VM & GitHub Account |
 | Due Date | 28-Aug-2023 |
 | Status | Done |
