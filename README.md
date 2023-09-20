@@ -10,6 +10,18 @@ Coursework for CSCI 465-Network and Application Security
 | **GitHub Username**         | MiaWeber25 |
 | **Repository**          | https://github.com/MiaWeber25/NetApp-mweber2 |
 
+### Assignment #2
+
+| Name | Value |
+| :--- | :--- |
+| Name | SS-A2-Remote Exploitation |
+| Description | Exploit the vulnerability in echoServer using local shellcode, remote shellcode, and connect-back shellcode. Patch the vulnerability. |
+| Due Date | 18-Sept-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/assignments/remote-exploitation |
+| Self Grade | 100/100 |
+| Notes | Unable to get connect-back shellcode exploit working. Further information in report. |
+
 ### Assignment #1
 
 | Name | Value |
