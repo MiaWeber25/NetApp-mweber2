@@ -10,6 +10,19 @@ Coursework for CSCI 465-Network and Application Security
 | **GitHub Username**         | MiaWeber25 |
 | **Repository**          | https://github.com/MiaWeber25/NetApp-mweber2 |
 
+
+### Assignment #3
+
+| Name | Value |
+| :--- | :--- |
+| Name | SS-A3-Format String Vulnerability |
+| Description | Exploit the vulnerability in logServer to alter memory addresses and print secrets. Patch the vulnerability. |
+| Due Date | 02-Oct-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/assignments/format-strings |
+| Self Grade | -/100 |
+| Notes | Unable to get connect-back shellcode exploit working. Loop behavior preventing 0xaabbccdd from printing. Further information in report. |
+
 ### Assignment #2
 
 | Name | Value |
