@@ -20,8 +20,7 @@ Coursework for CSCI 465-Network and Application Security
 | Due Date | 02-Oct-2023 |
 | Status | Done |
 | Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/assignments/format-strings |
-| Self Grade | -/100 |
-| Notes | Unable to get connect-back shellcode exploit working. Loop behavior preventing 0xaabbccdd from printing. Further information in report. |
+| Notes | Unable to get connect-back shellcode exploit working. Unable to write to first four bytes of any address. |
 
 ### Assignment #2
 
@@ -32,7 +31,6 @@ Coursework for CSCI 465-Network and Application Security
 | Due Date | 18-Sept-2023 |
 | Status | Done |
 | Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/assignments/remote-exploitation |
-| Self Grade | 100/100 |
 | Notes | Unable to get connect-back shellcode exploit working. Further information in report. |
 
 ### Assignment #1
@@ -44,7 +42,6 @@ Coursework for CSCI 465-Network and Application Security
 | Due Date | 04-Sept-2023 |
 | Status | Done |
 | Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/assignments/NetSecBasics |
-| Self Grade | 100/100 |
 | Notes | completed all the requirements |
 
 
@@ -57,5 +54,4 @@ Coursework for CSCI 465-Network and Application Security
 | Due Date | 28-Aug-2023 |
 | Status | Done |
 | Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/assignments/HelloGit |
-| Self Grade | 100/100 |
 | Notes | completed all the requirements |
