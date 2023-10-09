@@ -11,6 +11,17 @@ Coursework for CSCI 465-Network and Application Security
 | **Repository**          | https://github.com/MiaWeber25/NetApp-mweber2 |
 
 
+### Assignment #4
+
+| Name | Value |
+| :--- | :--- |
+| Name | SS-A4-Scappy MitM Attack |
+| Description | Write two Python scripts that replicate the major feature of Dug Song's arpspoof and dsniff tool. |
+| Due Date | 26-Oct-2023 |
+| Status | In Progress |
+| Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/assignments/arp-spoof |
+| Notes | -- |
+
 ### Assignment #3
 
 | Name | Value |
