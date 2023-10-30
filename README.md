@@ -11,6 +11,17 @@ Coursework for CSCI 465-Network and Application Security
 | **Repository**          | https://github.com/MiaWeber25/NetApp-mweber2 |
 
 
+### Assignment #5
+
+| Name | Value |
+| :--- | :--- |
+| Name | SS-A5-Web Sec Basics - TryHackMe |
+| Description | Complete tasks in several different TryHackMe rooms and complete a write-up. |
+| Due Date | 06-Nov-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/assignments/WebBasics |
+| Notes | N/A  |
+
 ### Assignment #4
 
 | Name | Value |
