@@ -10,6 +10,13 @@ Coursework for CSCI 465-Network and Application Security
 | **GitHub Username**         | MiaWeber25 |
 | **Repository**          | https://github.com/MiaWeber25/NetApp-mweber2 |
 
+### Ethics in Cybersecurity Extra Credit
+
+| Name | Value |
+| :--- | :--- |
+| Name | Cybersecurity and Ethics Across the Globe |
+| Description | Extra credit write-up for UCCS ethics in cybersecurity event |
+| Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/assignments/CybersecurityEthics |
 
 ### Assignment #5
 
