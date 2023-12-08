@@ -18,6 +18,18 @@ Coursework for CSCI 465-Network and Application Security
 | Description | Extra credit write-up for UCCS ethics in cybersecurity event |
 | Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/assignments/CybersecurityEthics |
 
+### Final Project
+
+| Name | Value |
+| :--- | :--- |
+| Name | Final Project - NodeGoat |
+| Description | Complete tasks in OSWAP NodeGoat and write a report with screenshots. |
+| Due Date | 04-Nov-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/FinalProject |
+| Notes | N/A  |
+
+
 ### Assignment #5
 
 | Name | Value |
