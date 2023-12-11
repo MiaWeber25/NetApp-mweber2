@@ -30,6 +30,17 @@ Coursework for CSCI 465-Network and Application Security
 | Notes | N/A  |
 
 
+### Assignment #6
+
+| Name | Value |
+| :--- | :--- |
+| Name | SS-A6 - WebGoat|
+| Description | Complete all the WebGoat exercises except the ones that require developer edition and the Challenges. |
+| Due Date | 13-Dec-2023 |
+| Status | Done |
+| Location | https://github.com/MiaWeber25/NetApp-mweber2/tree/main/assignments/WebGoat |
+| Notes | N/A  |
+
 ### Assignment #5
 
 | Name | Value |
